@@ -52,8 +52,8 @@ add a line break after each link.
   [A. Podelski](http://swt.informatik.uni-freiburg.de/staff/podelski)
 
 - Parametric Completeness for Separation Theories.   
-  ([preprint](http://www0.cs.ucl.ac.uk/staff/j.villard/pub/hybbi-BV13.pdf))
-  ([slides](http://www0.cs.ucl.ac.uk/staff/J.Brotherston/slides/oxford_aug13.pdf)),  
+  ([preprint](http://www0.cs.ucl.ac.uk/staff/j.villard/pub/hybbi-BVpopl14.pdf))
+  ([slides](http://www0.cs.ucl.ac.uk/staff/J.Brotherston/slides/birmingham_oct13.pdf)),  
   [J. Brotherston](http://www0.cs.ucl.ac.uk/staff/J.Brotherston/),
   [J. Villard](http://www0.cs.ucl.ac.uk/staff/J.Villard/)
 
@@ -100,7 +100,7 @@ add a line break after each link.
   [A. Tolmach](http://web.cecs.pdx.edu/~apt/)
 
 - A non-standard standardization theorem.   
-  ([preprint](https://sites.google.com/site/beniaminoaccattoli/popl2014-submitted_version.pdf))  
+  ([preprint](https://sites.google.com/site/beniaminoaccattoli/Accattoli%2C%20Bonelli%2C%20Kesner%2C%20Lombardi%20-%20A%20Nonstandard%20Standardization%20Theorem.pdf?attredirects=0))  
   [B. Accattoli](https://sites.google.com/site/beniaminoaccattoli/),
   [E. Bonelli](http://www.lifia.info.unlp.edu.ar/en/eduardo.htm),
   [D. Kesner](http://www.pps.univ-paris-diderot.fr/~kesner/),
@@ -145,7 +145,7 @@ add a line break after each link.
   [V. Nigam](http://www.nigam.info/)
 
 - Closed type families with overlapping equations.   
-  ([preprint](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/axioms.pdf))
+  ([preprint](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/popl137-eisenberg.pdf)
   ([extended version](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/axioms-extended.pdf)),   
   [R. Eisenberg](http://www.cis.upenn.edu/~eir/),
   [D. Vytiniotis](https://research.microsoft.com/en-us/people/dimitris/),
@@ -179,7 +179,8 @@ add a line break after each link.
   [S. Zanella-Béguelin](https://research.microsoft.com/en-us/people/santiago/)
 
 - A Proof System for Separation Logic with Magic Wand.   
-  ([technical report](http://pl.postech.ac.kr/SL/))
+  ([preprint](http://pl.postech.ac.kr/SL/popl204.pdf))
+  ([technical report](http://pl.postech.ac.kr/SL/popl14-tr.pdf))
   ([website](http://pl.postech.ac.kr/SL/)),  
   [Wonyel Lee](https://sites.google.com/site/wonyeol/),
   [Sungwoo Park](http://pl.postech.ac.kr/~gla/)
@@ -247,7 +248,7 @@ add a line break after each link.
 
 - Replicated Data Types: Specification, Verification, Optimality.  
   ([webpage](http://research.microsoft.com/apps/pubs/default.aspx?id=201602))
-  ([preprint](http://research.microsoft.com/pubs/201602/submitted-ext.pdf)),  
+  ([preprint](https://research.microsoft.com/pubs/201602/replDataTypesPOPL13-complete.pdf)),  
   [S. Burckhardt](http://research.microsoft.com/en-us/people/sburckha/),
   [A. Gotsman](http://software.imdea.org/~gotsman/),
   [H. Yang](http://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html),
@@ -448,7 +449,8 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Paul Tarau](http://logic.cse.unt.edu/tarau/)
 
 - Generic Generic Programming.   
-  ([preprint](http://dreixel.net/research/pdf/ggp_draft.pdf))  
+  ([preprint](http://dreixel.net/research/pdf/ggp.pdf))
+  ([code](http://dreixel.net/research/code/ggp.zip))  
   [José Pedro Magalhães](http://dreixel.net/),
   [Andres Löh](http://www.andres-loeh.de/)
 
@@ -460,7 +462,8 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Shayan Najd
 
 - Optimizing SYB is Easy!.   
-  ([preprint](http://michaeldadams.org/papers/syb-opt/))  
+  ([preprint](http://michaeldadams.org/papers/syb-opt/syb-opt-2014-pepm-authors-copy.pdf)),
+  ([webpage](http://michaeldadams.org/papers/syb-opt/))  
   [Michael D. Adams](http://michaeldadams.org/),
   [Andrew Farmer](http://andrewfarmer.name/),
   [José Pedro Magalhães](http://dreixel.net/)
@@ -567,7 +570,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Aaron Stump](http://www.cs.uiowa.edu/~astump)
 
 - Substructural Typestates.   
-  ([preprint](https://www.cs.cmu.edu/~foliveir/papers/plpv14-paper.pdf))  
+  ([preprint](http://www.cs.cmu.edu/~foliveir/papers/plpv14-paper.pdf))  
   [Filipe Militao](https://www.cs.cmu.edu/~foliveir/),
   [Jonathan Aldrich](http://www.cs.cmu.edu/~aldrich/),
   [Luis Caires](http://ctp.di.fct.unl.pt/~lcaires/)
