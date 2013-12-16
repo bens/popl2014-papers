@@ -145,7 +145,7 @@ add a line break after each link.
   [V. Nigam](http://www.nigam.info/)
 
 - Closed type families with overlapping equations.   
-  ([preprint](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/popl137-eisenberg.pdf)
+  ([preprint](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/popl137-eisenberg.pdf))
   ([extended version](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/axioms-extended.pdf)),   
   [R. Eisenberg](http://www.cis.upenn.edu/~eir/),
   [D. Vytiniotis](https://research.microsoft.com/en-us/people/dimitris/),
